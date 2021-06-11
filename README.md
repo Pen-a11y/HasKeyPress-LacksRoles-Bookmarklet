@@ -1,0 +1,2 @@
+# HasKeyPress-LacksRoles-Bookmarklet
+This Repository is for an accessibility Bookmarklet. The bookmarklet highlights custom controls created with spans and divs that lack an onkeypress event handler, but have an onclick eventhandler. It will also highlight these elements that lack a role element, as this can be a sign that a custom control is not keyboard accessible. I hope that this bookmarklet can help to identify these issues, and help developers in making accessibility easier.
