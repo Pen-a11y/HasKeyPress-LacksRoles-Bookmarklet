@@ -1,0 +1,13 @@
+.highlight {
+	border-color: yellow;
+	border-style: solid;
+	border-width: thick;
+}
+
+.text-box{
+	float: left;
+	margin-top: -30px;
+	color: blue;
+	background: yellow;
+	position:absolute;
+}
